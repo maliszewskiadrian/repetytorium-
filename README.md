@@ -33,7 +33,7 @@ The engine is divided into three critical zones:
 This project is unique as it is developed through a high-bandwidth collaboration between **Adrian Maliszewski** and advanced AI thought partners. We use AI to stress-test our own safety layers, creating a recursive "Red Teaming" environment.
 
 ## 🚀 How to Use
-1. **Clone the repo:** `git clone https://github.com/your-username/FIOLET_ENGINE.git`
+1. **Clone the repo:** `git clone https://github.com/maliszewskiadrian/FIOLET_ENGINE.git`
 2. **Review the Whitepaper:** See `docs/whitepaper.pdf` for deep-dive technical specs.
 3. **Integrate:** Use the `.json` schemas in `/core_logic` to wrap your LLM calls.
 
