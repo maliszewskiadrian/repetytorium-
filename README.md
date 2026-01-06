@@ -1,6 +1,6 @@
 # FIOLET_ENGINE V1: 15-Layer AI Safety & Constraint Architecture
 
-![FIOLET_ENGINE Banner](your_image_link_here)
+![FIOLET_ENGINE Banner](https://zapodaj.net/plik-Y5GwElfn92)
 
 ## 🛡️ Project Overview
 **FIOLET_ENGINE** is a modular, multi-layered safety framework designed to enforce deterministic boundaries on non-deterministic Large Language Models (LLMs). Unlike traditional prompt filters, FIOLET_ENGINE operates as a structural integrity layer between the model and the operator.
